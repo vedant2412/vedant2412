@@ -1,6 +1,9 @@
 <h1>Hi there 👋 </h1>
 
-I am Vedant. A Cybersecurity professional with hands-on experience in threat detection, incident response, and security automation, with a strong focus on building practical solutions. I enjoy developing Python-based tools for log analysis, detection engineering, and API integrations that solve real-world security problems. I’m particularly interested in aligning my work with frameworks like MITRE ATT&CK and contributing to modern SOC environments. I’m genuinely passionate about cybersecurity and constantly explore new threats, tools, and techniques to stay ahead in the field.
+I am Vedant, a cybersecurity professional with hands-on experience in threat detection, incident response, and security automation, with a strong focus on building practical solutions. I enjoy developing Python-based tools for log analysis, detection engineering, and API integrations that solve real-world security problems. I’m particularly interested in aligning my work with frameworks like MITRE ATT&CK and contributing to modern SOC environments. I’m genuinely passionate about cybersecurity and constantly explore new threats, tools, and techniques to stay ahead in the field.
+
+## 🧠 Core Focus
+Threat Detection | Incident Response | Security Automation
 
 
 ## 💻 Tech Stack:
@@ -30,11 +33,26 @@ I am Vedant. A Cybersecurity professional with hands-on experience in threat det
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 
 
+## 🚀 Featured Projects
+
+### 🔐 Suspicious Login Detection System
+- Built Python-based detection logic mapped to MITRE ATT&CK (T1110), analyzing 10,000+ authentication events to identify brute-force patterns.
+- Generated structured alerts (JSON) for SIEM-style ingestion.
+
+### 📧 Phishing Email Triage CLI
+- Developed CLI tool to analyze phishing indicators, reducing manual triage effort by ~40%.
+- Designed modular pipeline for parsing, detection, and reporting.
+
+### 🌦️ Weather API Client (Secure & Resilient)
+- Integrated external APIs with secure key management using .env, handling multiple requests with consistent response parsing.
+- Implemented error handling and scalable request workflows.
+
+
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vedant-chavan2412/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/CRFVTTJF) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chavanved777@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vedant-chavan2412/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chavanved777@gmail.com) 
 
 
-## 📊 GitHub Stats:
+<!-- ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vedant2412&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=vedant2412&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedant2412&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -42,4 +60,4 @@ I am Vedant. A Cybersecurity professional with hands-on experience in threat det
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vedant2412&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-[![](https://visitcount.itsvg.in/api?id=vedant2412&icon=2&color=2)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=vedant2412&icon=2&color=2)](https://visitcount.itsvg.in) >>
